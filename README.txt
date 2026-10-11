@@ -30,3 +30,11 @@ TEAM SECTION UPDATE (October 2026)
 Six current team profiles have been added using the photos and name order supplied by the school. To update the website later, replace the matching files inside assets/images/ or edit the team cards in index.html. Keep the file paths/names the same unless you also update index.html.
 
 GitHub Pages upload: extract this ZIP, open the FAITH-ACADEMY-EKET repository, upload/replace index.html and styles.css, and upload the six team-*.jpg/png files into assets/images/. Keep the existing script.js and all existing gallery images.
+
+
+STAFF PHOTO UPDATE
+- Five portraits have been gently enhanced for exposure, contrast, colour and clarity.
+- Abasiyene Udo's original image was intentionally left unchanged.
+- The Our Team section is now a responsive slideshow with arrows, dots and a counter.
+- To add staff later, duplicate a <article class="team-card"> inside the #team-track element in index.html, update its image/name/role, and place the new image in assets/images/. The slideshow controls count cards automatically.
+- The Ime Umoren source photo was very small, so enlargement cannot recreate missing detail; replace it with a higher-resolution original when available.
