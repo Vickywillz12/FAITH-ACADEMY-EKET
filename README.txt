@@ -24,3 +24,9 @@ index.html       Website structure and content
 styles.css       Responsive visual design
 script.js        Mobile navigation, gallery filtering, lightbox, enquiry draft
 assets/images/   All 36 Outlook images
+
+
+TEAM SECTION UPDATE (October 2026)
+Six current team profiles have been added using the photos and name order supplied by the school. To update the website later, replace the matching files inside assets/images/ or edit the team cards in index.html. Keep the file paths/names the same unless you also update index.html.
+
+GitHub Pages upload: extract this ZIP, open the FAITH-ACADEMY-EKET repository, upload/replace index.html and styles.css, and upload the six team-*.jpg/png files into assets/images/. Keep the existing script.js and all existing gallery images.
